@@ -1,0 +1,3 @@
+list disk
+timeout /t 10
+exit
